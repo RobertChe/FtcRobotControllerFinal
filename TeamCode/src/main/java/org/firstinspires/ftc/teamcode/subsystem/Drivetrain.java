@@ -13,7 +13,7 @@ public class Drivetrain implements Subsystem {
     public enum State {
         OFF, DRIVE
     }
-     public State state = OFF;
+     public State state = State.OFF;
 
     public State getState() {
         return state;

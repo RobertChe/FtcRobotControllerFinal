@@ -2,6 +2,8 @@ package org.firstinspires.ftc.teamcode.subsystem;
 
 import static org.firstinspires.ftc.teamcode.robot.Robot.primShooter;
 
+import org.firstinspires.ftc.teamcode.util.Subsystem;
+
 public class Shooter implements Subsystem {
 
 
